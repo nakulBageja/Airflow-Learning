@@ -1,6 +1,6 @@
 # User data extraction using Airflow
 
-<img href='./assets/users_dag.png'/>
+<img src='./assets/users_dag.png'/>
 
 ## Providers used
 1. PostgresOperator - Used to create a table
